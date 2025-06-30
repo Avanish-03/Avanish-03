@@ -10,14 +10,23 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avanishyadav&theme=algolia&no-frame=true&margin-w=10" />
-</p>
+<!-- 🏆 GitHub Trophies with Styling + GIF layout enhanced -->
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" width="400" style="border-radius: 10px;" />
+<table width="100%">
+  <tr>
+    <!-- GIF Section -->
+    <td align="center" width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" style="border-radius: 12px;" />
+    </td>
 
----
+    <!-- Trophy Section -->
+    <td align="center" width="60%">
+      <h3 align="center">🏆 GitHub Trophies</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=avanishyadav&theme=gruvbox&column=3&no-frame=true&no-bg=true&margin-w=15&title=Commits,Repositories,PullRequest,Stars,Followers,Issues" />
+    </td>
+  </tr>
+</table>
+
 
 ### 🧠 About Me
 
