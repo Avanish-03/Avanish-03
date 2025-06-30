@@ -1,113 +1,104 @@
-<!-- GitHub ReadMe Header Animation -->
+<!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Hey+I'm+Avanish+Yadav!;MSC(ICT)+Final+Year+Student;React+%7C+.NET+API+%7C+Kotlin+%7C+Quiz+Systems+Builder;From+Surat%2C+Gujarat+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFEF&center=true&vCenter=true&width=600&lines=Hey+I'm+Avanish+Yadav+%F0%9F%91%8B;M.Sc+(ICT)+Final+Year+Student;React+%7C+.NET+Core+%7C+Kotlin+%7C+MongoDB;Placement+Ready+%F0%9F%92%AA+%7C+Based+in+Surat%2C+India" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MSc(ICT)%20@%20VNSGU-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/J.P.%20Dawar%20Institute%2C%20Surat-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/avanishyadav?label=Followers&style=for-the-badge">
+  <img src="https://img.shields.io/badge/VNSGU-blueviolet?style=for-the-badge&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/J.P.Dawar%20Institute-yellow?style=for-the-badge&logo=graduation-cap" />
+  <img src="https://img.shields.io/github/followers/avanishyadav?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-🔥_FullStack-green?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-🎓 Final Year M.Sc (ICT) Student  
-🏫 **Veer Narmad South Gujarat University (VNSGU)**  
-🏢 **J.P. Dawar Institute of Information Science & Technology, Surat**
-
-💡 Passionate about building practical and real-world projects  
-🧠 Learning full stack dev, MERN, and Data Analytics  
-🎯 Goal: Crack a great placement & launch YouTube for tech + AI  
+🎓 Final Year M.Sc. (ICT) Student at **Veer Narmad South Gujarat University (VNSGU)**  
+🏫 Studying at **J.P. Dawar Institute of Information Science & Technology, Surat**  
+💡 Passionate about **real-life tech solutions**, frontend + backend integration  
+📱 Built Android apps with Kotlin + Retrofit  
+🎯 Preparing for **placements** 
 
 ---
 
-## 🏆 Achievements & Highlights
-
-- ✅ Built full-stack **Quiz Platform** with Admin, Student, Teacher modules  
-- ✅ Developed **Android App** with .NET Core API using **Kotlin + Retrofit**  
-- ✅ Created **ApnaBasera** 🏠 for property listing & rental (Figma to Code)  
-- ✅ Consistent GitHub contributions & active projects  
-- ✅ UI-focused designs with themes, sessions & dynamic dashboards  
-
----
-
-## 🚀 Tech Stack
+## 🧠 Skills & Tech Stack
 
 <div align="center">
-  <table style="border: none;">
+  <table>
     <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-        <small>React.js</small>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="50"/>
+        <br/><b>Frontend</b>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br/>
-        <small>TailwindCSS</small>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=dotnet,nodejs,kotlin,androidstudio" height="50"/>
+        <br/><b>Backend & Android</b>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/>
-        <small>.NET Core</small>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=sql,mongodb,firebase" height="50"/>
+        <br/><b>Database</b>
       </td>
     </tr>
     <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /><br/>
-        <small>Kotlin</small>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=javascript,postman,git" height="50"/>
+        <br/><b>APIs & DevTools</b>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><br/>
-        <small>SQL Server</small>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=github,figma,canva,vscode" height="50"/>
+        <br/><b>Productivity</b>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
-        <small>Postman</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="3" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br/>
-        <small>Figma</small>
+      <td align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/JWT-Auth-blue?style=for-the-badge&logo=jsonwebtokens" /><br/>
+        <b>Security</b>
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+## 📈 Achievements
+
+| 🌟 | Title | Description |
+|----|-------|-------------|
+| ✅ | **Quiz Platform** | Full-stack quiz system with Admin, Student & Teacher roles |
+| ✅ | **ApnaBasera 🏠** | Rental solution project with location filter, listing panel |
+| ✅ | **Android Auth App** | Kotlin + SHA256 login with .NET backend & Retrofit |
+| 📅 | **100+ Contributions** | Active GitHub contributor with full focus on clean code |
 
 ---
 
-## 💼 My Projects
+## 🚀 Featured Projects
 
-### 🎯 [Quiz Web App (React + .NET Core)](https://github.com/your-repo)
-> A dynamic quiz app with role-based access for Admins, Students, and Teachers  
-✅ Secure JWT Login | Result Dashboard | Score Analysis  
-🛠 Tech Used: React, TailwindCSS, ASP.NET Core, SQL Server
-
----
-
-### 🏠 [ApnaBasera - Real Life Project](https://github.com/your-repo)
-> A housing solution for students and job seekers  
-✅ Owner Panel | Location Filtering | Clean UI from Figma  
-🛠 Tech Used: React, Node.js, MongoDB, Tailwind
+### 🔹 [Quiz Web App](https://github.com/your-repo)
+> ⚡ Full-stack quiz system with dashboards and role-based access  
+🛠 Tech: React.js | Tailwind CSS | ASP.NET Web API | SQL Server  
+🔐 Secure JWT Login | 📊 Result System | 🌙 Dark/Light Theme
 
 ---
 
-### 📱 [Android Kotlin + .NET API Auth App](https://github.com/your-repo)
-> Kotlin app with SHA256 login, clean white UI & bottom navigation  
-✅ Secure API login | Retrofit Integration | Session-based routing  
-🛠 Tech Used: Kotlin, Retrofit, ASP.NET Core
+### 🔹 [ApnaBasera - Rental Platform](https://github.com/your-repo)
+> 🏠 Real-life PG/room listing solution built from Figma UI  
+🛠 React | MongoDB | Node.js | Express  
+🌐 Area Filtering | Admin Panel | Owner Listing Flow
+
+---
+
+### 🔹 [Android Login App (Kotlin)](https://github.com/your-repo)
+> 📱 Android + .NET Auth with bottom nav & clean UI  
+🛠 Kotlin, Retrofit, ASP.NET, SHA256 Encryption  
+👤 Secure Login | 📲 Multi-page routing | ☁️ API powered
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avanishyadav&show_icons=true&theme=gruvbox&hide=issues" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanishyadav&theme=gruvbox" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanishyadav&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avanishyadav&show_icons=true&theme=dracula&hide=issues&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanishyadav&theme=dracula" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanishyadav&layout=compact&theme=dracula" height="170" />
 </p>
 
 ---
@@ -115,14 +106,16 @@
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=google-chrome&style=for-the-badge"></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
 </p>
 
 ---
 
+## 🧠 Quote to Remember
+
 <p align="center">
-  ⚡ “Code smart. Build bold. Deploy fearless.”  
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Code%20Smart%2C%20Build%20Bold-black?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
