@@ -1,121 +1,112 @@
-<!-- Header Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFEF&center=true&vCenter=true&width=600&lines=Hey+I'm+Avanish+Yadav+%F0%9F%91%8B;M.Sc+(ICT)+Final+Year+Student;React+%7C+.NET+Core+%7C+Kotlin+%7C+MongoDB;Placement+Ready+%F0%9F%92%AA+%7C+Based+in+Surat%2C+India" />
-</p>
+<!-- 🧠 Hero Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3FDDFF&center=true&vCenter=true&multiline=true&width=800&lines=Hi+I'm+Avanish+Yadav+%F0%9F%91%8B;MSc(ICT)+Final+Year+Student+%7C+Full+Stack+Developer;React+%7C+.NET+Core+%7C+Kotlin+%7C+Tailwind+%7C+MongoDB;Passionate+Developer+from+Surat%2C+India" />
+</div>
 
+<br/>
+
+<!-- 🔰 Profile Highlights -->
 <p align="center">
-  <img src="https://img.shields.io/badge/VNSGU-blueviolet?style=for-the-badge&logo=google-scholar" />
-  <img src="https://img.shields.io/badge/J.P.Dawar%20Institute-yellow?style=for-the-badge&logo=graduation-cap" />
-  <img src="https://img.shields.io/github/followers/avanishyadav?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech%20Stack-🔥_FullStack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VNSGU-%F0%9F%8C%8D-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/J.P.Dawar%20Institute-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/avanishyadav?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-🎓 Final Year M.Sc. (ICT) Student at **Veer Narmad South Gujarat University (VNSGU)**  
-🏫 Studying at **J.P. Dawar Institute of Information Science & Technology, Surat**  
-💡 Passionate about **real-life tech solutions**, frontend + backend integration  
-📱 Built Android apps with Kotlin + Retrofit  
-🎯 Preparing for **placements** 
+🎓 MSc (ICT) Final Year Student @ **VNSGU**, Surat  
+🏫 J.P. Dawar Institute of Information Science & Technology  
+💻 Passionate about solving real-life problems using modern tech  
+📱 Android App Dev | Full Stack | UI/UX  
+🎯 Actively preparing for placements | Building a YouTube channel soon
 
 ---
 
-## 🧠 Skills & Tech Stack
+## 🚀 Projects Showcase
 
 <div align="center">
+  
   <table>
     <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" height="50"/>
-        <br/><b>Frontend</b>
+      <td><strong>🧠 Quiz Web App</strong><br/>
+        - Role-based: Admin, Student, Teacher<br/>
+        - JWT Auth + Score Calculation<br/>
+        - <code>React | Tailwind | ASP.NET Core | SQL</code><br/>
+        <a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/View-Project-blue?style=flat-square"></a>
       </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=dotnet,nodejs,kotlin,androidstudio" height="50"/>
-        <br/><b>Backend & Android</b>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=sql,mongodb,firebase" height="50"/>
-        <br/><b>Database</b>
+      <td><strong>🏠 ApnaBasera</strong><br/>
+        - PG/Flat Listing Platform<br/>
+        - Location filter + Owner panel<br/>
+        - <code>React | Node | MongoDB</code><br/>
+        <a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/View-Project-blue?style=flat-square"></a>
       </td>
     </tr>
     <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=javascript,postman,git" height="50"/>
-        <br/><b>APIs & DevTools</b>
+      <td><strong>📱 Android Login App</strong><br/>
+        - Secure Login w/ SHA256<br/>
+        - Kotlin + Retrofit + .NET<br/>
+        - <code>Kotlin | .NET API | XML</code><br/>
+        <a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/View-Project-blue?style=flat-square"></a>
       </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=github,figma,canva,vscode" height="50"/>
-        <br/><b>Productivity</b>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://img.shields.io/badge/JWT-Auth-blue?style=for-the-badge&logo=jsonwebtokens" /><br/>
-        <b>Security</b>
+      <td><strong>🖼️ Portfolio Site</strong><br/>
+        - Scroll animations + card UI<br/>
+        - Responsive Figma-to-Code<br/>
+        - <code>React | Tailwind | Framer Motion</code><br/>
+        <a href="https://github.com/your-repo"><img src="https://img.shields.io/badge/View-Project-blue?style=flat-square"></a>
       </td>
     </tr>
   </table>
+
 </div>
 
 ---
 
-## 📈 Achievements
-
-| 🌟 | Title | Description |
-|----|-------|-------------|
-| ✅ | **Quiz Platform** | Full-stack quiz system with Admin, Student & Teacher roles |
-| ✅ | **ApnaBasera 🏠** | Rental solution project with location filter, listing panel |
-| ✅ | **Android Auth App** | Kotlin + SHA256 login with .NET backend & Retrofit |
-| 📅 | **100+ Contributions** | Active GitHub contributor with full focus on clean code |
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [Quiz Web App](https://github.com/your-repo)
-> ⚡ Full-stack quiz system with dashboards and role-based access  
-🛠 Tech: React.js | Tailwind CSS | ASP.NET Web API | SQL Server  
-🔐 Secure JWT Login | 📊 Result System | 🌙 Dark/Light Theme
-
----
-
-### 🔹 [ApnaBasera - Rental Platform](https://github.com/your-repo)
-> 🏠 Real-life PG/room listing solution built from Figma UI  
-🛠 React | MongoDB | Node.js | Express  
-🌐 Area Filtering | Admin Panel | Owner Listing Flow
-
----
-
-### 🔹 [Android Login App (Kotlin)](https://github.com/your-repo)
-> 📱 Android + .NET Auth with bottom nav & clean UI  
-🛠 Kotlin, Retrofit, ASP.NET, SHA256 Encryption  
-👤 Secure Login | 📲 Multi-page routing | ☁️ API powered
-
----
-
-## 📊 GitHub Stats
+## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avanishyadav&show_icons=true&theme=dracula&hide=issues&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanishyadav&theme=dracula" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanishyadav&layout=compact&theme=dracula" height="170" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,dotnet,kotlin,androidstudio" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,postman,github,git,mongodb,mysql,vscode,redux,firebase" />
 </p>
 
 ---
 
-## 🔗 Let's Connect
+## 📊 GitHub Insights
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=avanishyadav&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanishyadav&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🧠 Quote to Remember
+## 💡 Dev Quote
+
+> _“Code is not just logic. It's the language of innovation.”_
+
+---
+
+## 📬 Let's Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Code%20Smart%2C%20Build%20Bold-black?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
+---
+
+<!-- 🌊 Footer Curve -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
