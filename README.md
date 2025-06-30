@@ -1,111 +1,81 @@
-<!-- Intro Heading -->
-<h1 align="center">Hey, I'm Avanish Yadav 👋</h1>
-<p align="center">
-  <strong>M.Sc (ICT) Student | Full Stack Developer</strong><br/>
-  React · .NET Core · Kotlin · Tailwind · MongoDB
-</p>
+<!-- Banner Image (optional) -->
+<!-- <img src="https://github.com/avanishyadav/avanishyadav/blob/main/banner.png" alt="Avanish Yadav Banner" /> -->
 
-<!-- Education Badges -->
+<h1 align="center" style="color:#00FFC6; font-family:sans-serif;">Hi 👋, I'm Avanish Yadav</h1>
+<h3 align="center" style="color:#C3F8FF; font-weight:normal;">M.Sc (ICT) Final Year Student | Passionate Full Stack & Android Developer</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/VNSGU-University-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/J.P.Dawar%20Institute-Surat-yellow?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=avanishyadav&label=Profile%20views&color=00FFC6&style=flat" alt="avanishyadav" />
 </p>
 
 ---
 
-## 📂 About Me
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 Quiz Web App</h3>
-      <ul>
-        <li>Role-based (Admin, Student, Teacher)</li>
-        <li>JWT Auth + Score Calculation</li>
-        <li><code>React · Tailwind · .NET · SQL</code></li>
-      </ul>
-      <a href="#"><img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square"></a>
-    </td>
-    <td>
-      <h3>🏠 ApnaBasera</h3>
-      <ul>
-        <li>PG/Flat Listing with Filters</li>
-        <li>Owner panel, Search logic</li>
-        <li><code>React · Node.js · MongoDB</code></li>
-      </ul>
-      <a href="#"><img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>📱 Android Login App</h3>
-      <ul>
-        <li>Secure login with SHA256</li>
-        <li>Kotlin + Retrofit</li>
-        <li><code>Kotlin · XML · .NET API</code></li>
-      </ul>
-      <a href="#"><img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square"></a>
-    </td>
-    <td>
-      <h3>🖼 Portfolio Site</h3>
-      <ul>
-        <li>Scroll Animations + Card UI</li>
-        <li>Responsive Figma-to-Code</li>
-        <li><code>React · Tailwind · Motion</code></li>
-      </ul>
-      <a href="#"><img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square"></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧰 Tech Stack & Tools
-
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
-  <img src="https://skillicons.dev/icons?i=dotnet,kotlin,androidstudio,nodejs" />
-  <img src="https://skillicons.dev/icons?i=figma,postman,github,mongodb,mysql,vscode" />
+  <img src="https://github-profile-trophy.vercel.app/?username=avanishyadav&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
----
-
-## 📈 GitHub Insights
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=avanishyadav&show_icons=true&theme=radical&hide_border=true" width="100%"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=avanishyadav&theme=radical&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" width="400" style="border-radius: 10px;" />
 
 ---
 
-## 💬 Connect With Me
+### 🧠 About Me
 
-<p align="center">
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+- 🎓 Pursuing **M.Sc (ICT)** at **Veer Narmad South Gujarat University**
+- 🏫 College: **J.P. Dawar Institute of Information Science & Technology**, Surat
+- 🔭 Currently building: **Quiz App** with multi-role support
+- 🌱 Learning: **Kotlin + .NET Core + Tailwind UI**
+- 💻 Portfolio: [Coming Soon...]
+- 📧 Email: <strong style="color:#00FFC6">avanish.yadav@example.com</strong>
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/avanishyadav" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@yourchannel">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.instagram.com/avanish__official/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>“Code is not just logic. It's the language of innovation.”</i></p>
+### 🛠 Languages and Tools
 
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind,dotnet,kotlin,js,html,css,androidstudio,figma,postman,mongodb,mysql,git,github,vscode" /></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **🧠 Quiz Web App** | Admin, Student, Teacher Roles, JWT Auth, Result Analysis | React · Tailwind · .NET · SQL |
+| **🏠 ApnaBasera** | PG/Flat System with Search & Owner Panel | React · Node.js · MongoDB |
+| **📱 Android Login App** | Kotlin-based secure login with SHA256 | Kotlin · Retrofit · XML · .NET API |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanishyadav&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=avanishyadav&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanishyadav&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+<p align="center"><i>“Think Deep. Build Clean. Deliver Fast.”</i></p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
