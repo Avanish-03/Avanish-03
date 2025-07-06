@@ -7,10 +7,6 @@
   <img src="https://img.shields.io/badge/J.P.Dawar%20Institute-Surat-yellow?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=120&section=header"/>
-</p>
-
 ---
 
 <!-- ✨ About Me + Tech Stack -->
