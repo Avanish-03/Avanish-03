@@ -60,14 +60,6 @@
 
 ---
 
-<!-- 🏆 Trophies -->
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avanishyadav&theme=gruvbox&no-frame=true&column=3&margin-w=15" />
-</p>
-
----
 
 <!-- 📫 Contact -->
 ### 📬 Connect With Me
