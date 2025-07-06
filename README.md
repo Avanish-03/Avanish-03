@@ -21,7 +21,7 @@
         <li>🎓 MSc (ICT) Final Year @ VNSGU</li>
         <li>💻 Html, Css, Js, React, .NET, Java, C#, C++, C </li>
         <li>📱 Responsive Ui using Tailwind</li>
-        <li>🎯 goal is to become a versatile Full Stack Web Developer</li>
+        <li>🎯 Goal is to become a versatile Full Stack Web Developer</li>
       </ul>
     </td>
     <td width="45%" style="vertical-align: top;">
