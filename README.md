@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VNSGU-University-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/J.P.Dawar%20Institute-Surat-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/avanishyadav?style=for-the-badge&logo=github" />
+<!--   <img src="https://img.shields.io/github/followers/avanishyadav?style=for-the-badge&logo=github" /> -->
 </p>
 
 ---
