@@ -65,16 +65,16 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:avanishyadav744@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/avanishyadav901910/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://youtube.com/@yourchannel">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://portfolioavanish.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
