@@ -19,9 +19,9 @@
       <h3>🧠 About Me</h3>
       <ul>
         <li>🎓 MSc (ICT) Final Year @ VNSGU</li>
-        <li>💻 Full Stack Dev: React, .NET, Tailwind</li>
-        <li>📱 Android Developer with Kotlin</li>
-        <li>🎯 Actively preparing for placements</li>
+        <li>💻 Html, Css, Js, React, .NET, Java, C#, C++, C </li>
+        <li>📱 Responsive Ui using Tailwind</li>
+        <li>🎯 goal is to become a versatile Full Stack Web Developer</li>
       </ul>
     </td>
     <td width="45%" style="vertical-align: top;">
@@ -44,7 +44,7 @@
 |--------|-------------|------------|
 | **🧠 Quiz Web App** | Admin, Student, Teacher roles, JWT Auth, Score analytics | `React`, `Tailwind`, `.NET`, `SQL` |
 | **🏠 ApnaBasera** | PG/Flat listing, owner panel, filters | `React`, `Node.js`, `MongoDB` |
-| **📱 Android Login App** | SHA256 secure login with .NET API | `Kotlin`, `XML`, `.NET Core` |
+| **📱 Reflecting Photographing** | PhotoWeb02 website, Booking, Dummy Payment | `HTML`, `Tailwind`, `PHP` |
 
 ---
 
