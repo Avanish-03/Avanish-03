@@ -27,7 +27,9 @@
     <td width="45%" style="vertical-align: top;">
       <h3>🔧 Tech Stack</h3>
       <p height="20%">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,dotnet,kotlin,nodejs,mongodb,mysql,html,css,js,androidstudio,postman,figma,git,vscode" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind,dotnet,kotlin,nodejs,mongodb" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,js" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,postman,figma,git,vscode" />
       </p>
     </td>
   </tr>
