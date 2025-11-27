@@ -17,7 +17,8 @@
     <tr>
       <td width="50%">
         <ul>
-          <li>🎓 Final Year MSc (ICT) @ VNSGU</li>
+          <li>🎓 React.js Intern @ The Diamond Port</li>
+          <li>🎓 MSc (ICT) @ VNSGU</li>
           <li>💻 Techie: HTML, CSS, JavaScript, React, .NET, Java, C#, C++, C</li>
           <li>📱 Responsive UIs using Tailwind CSS</li>
           <li>🎯 Aspiring Full Stack Developer with a creative edge</li>
