@@ -43,8 +43,8 @@
 
 | 💡 Project | 🔎 Description | 🛠️ Tech Stack |
 |-----------|----------------|---------------|
-| **🧠 Quiz Web App** | Multi-role platform: Admin, Student, Teacher with JWT Auth and Analytics | `React`, `Tailwind`, `.NET`, `SQL` |
-| **🏠 ApnaBasera** | PG/Flat listing portal with owner panel & smart filters | `React`, `Node.js`, `MongoDB` |
+| **🧠 EasyRentalSpot** | Managed with multipal roles: Admin, Tenant, Owner with JWT Auth and Analytics Easy to find a new Home, PG, Villa, Appartments etc.  | `MongoDB`, `Express.js`, `React.js`, `Node.js` |
+| **🧠 TechSkillPro** | Multi-role platform: Admin, Student, Teacher with JWT Auth and Analytics | `React`, `Tailwind`, `.NET`, `SQL` |
 | **📸 Reflecting Photographing** | Portfolio & Booking website with dummy payment gateway | `HTML`, `Tailwind`, `PHP` |
 
 ---
