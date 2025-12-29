@@ -17,7 +17,7 @@
     <tr>
       <td width="50%">
         <ul>
-          <li>🎓 React.js Intern @ The Diamond Port</li>
+          <li>*️⃣ React.js Intern @ The Diamond Port</li>
           <li>🎓 MSc (ICT) @ VNSGU</li>
           <li>💻 Techie: HTML, CSS, JavaScript, React, .NET, Java, C#, C++, C</li>
           <li>📱 Responsive UIs using Tailwind CSS</li>
@@ -43,8 +43,8 @@
 
 | 💡 Project | 🔎 Description | 🛠️ Tech Stack |
 |-----------|----------------|---------------|
-| **🧠 EasyRentalSpot** | Managed with multipal roles: Admin, Tenant, Owner with JWT Auth and Analytics Easy to find a new Home, PG, Villa, Appartments etc.  | `MongoDB`, `Express.js`, `React.js`, `Node.js` |
-| **🧠 TechSkillPro** | Multi-role platform: Admin, Student, Teacher with JWT Auth and Analytics | `React`, `Tailwind`, `.NET`, `SQL` |
+| **🏠 EasyRentalSpot** | Managed with multipal roles: Admin, Tenant, Owner with JWT Auth and Analytics Easy to find a new Home, PG, Villa, Appartments etc.  | `MongoDB`, `Express.js`, `React.js`, `Node.js` |
+| **🖥️ TechSkillPro** | Multi-role platform: Admin, Student, Teacher with JWT Auth and Analytics | `React`, `Tailwind`, `.NET`, `SQL` |
 | **📸 Reflecting Photographing** | Portfolio & Booking website with dummy payment gateway | `HTML`, `Tailwind`, `PHP` |
 
 ---
