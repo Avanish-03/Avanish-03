@@ -7,6 +7,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avanish-03&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=statuspage&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-black?style=flat-square"/>
