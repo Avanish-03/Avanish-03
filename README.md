@@ -35,11 +35,11 @@
 ```ts
 const avanish = {
   name     : "Avanish Yadav",
-  role     : "Full Stack Developer",
+  role     : "React Developer",
   education: "MSc (ICT) @ VNSGU, Surat",
   institute: "J.P. Dawar Institute of Technology",
   status   : "🟢 Open to Work",
-  learning : ["React.js (Advanced)", "Next.js"],
+  learning : ["React.js ", "Next.js"],
   hobbies  : ["🎮 Gaming", "📚 Learning new things"],
   motto    : "Code is art — every line is part of a bigger masterpiece.",
 };
